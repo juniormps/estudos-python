@@ -1,3 +1,4 @@
+#Python é uma linguagem em que as variáveis são DINAMICAMENTE TIPADAS 
 a = 10
 b = 5.2
 
