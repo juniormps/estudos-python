@@ -11,3 +11,15 @@ print(10 % 3)  #Módulo da divisão (resto)
 a = 12
 b = a
 print(a + b)
+
+
+
+# DESAFIO
+# Quantos porcento do salário, representam as despesas abaixo?
+
+salario = 3450.45
+despesas = 2456.2
+
+porcentoComprometido = (despesas * 100) / salario
+
+print(porcentoComprometido)
